@@ -12,7 +12,7 @@ import org.thymeleaf.spring5.SpringTemplateEngine;
 import org.thymeleaf.spring5.templateresolver.SpringResourceTemplateResolver;
 import org.thymeleaf.spring5.view.ThymeleafViewResolver;
 
-//gtre//
+
 @Configuration
 @ComponentScan("lesson")
 @EnableWebMvc
